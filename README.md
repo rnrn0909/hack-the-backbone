@@ -2,7 +2,7 @@
 
 **Hacking the Backbone: Shell Reverse Attacks on IIoT Systems**
 
-Case study using Fishertechnik's Lernfabrik 4.0 (9V)
+Case study using Fischertechnik's Lernfabrik 4.0 (9V)
 
 ## This repository includes
 - The script for the reverse shell server (`server.py`) and client (`client.py`)
